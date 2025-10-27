@@ -135,6 +135,8 @@ Vuls is a tool created to solve the problems listed above. It has the following 
 - Next, issue a command on the scan target server to collect software information. Then send the result to Vuls Server via HTTP. You receive the scan results as JSON format.
 - No SSH needed, No Scanner needed. Only issuing Linux commands directory on the scan target server.
 
+- see [vulsdoc](https://vuls.io/docs/en/how-to-contribute.html)
+
 ### **Dynamic** Analysis
 
 - It is possible to acquire the state of the server by connecting via SSH and executing the command.
