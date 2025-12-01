@@ -1,4 +1,3 @@
-
 # Vuls: VULnerability Scanner
 
 [![Slack](https://img.shields.io/badge/slack-join-blue.svg)](http://goo.gl/forms/xm5KFo35tu)
